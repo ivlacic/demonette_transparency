@@ -1,4 +1,4 @@
-A dataset for the study of semantic transparency in derivational morphology, based on the enriched version of the Démonette (Namer et al., 2023) database. 
+A dataset for the study of semantic transparency in French derivational morphology, based on the enriched version of the Démonette (Namer et al., 2023) database. 
 
 The dataset operationalizes transparency using distributional semantic vectors and includes both:
 
