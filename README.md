@@ -1,4 +1,4 @@
-A dataset for the study of semantic transparency in French derivational morphology, based on the enriched version of the [Démonette-2.0] (https://demonext.llf-paris.fr/demonext/vues/front_page.php) database (Namer et al., 2023). 
+A dataset for the study of semantic transparency in French derivational morphology, based on the enriched version of the [Démonette-2.0](https://demonext.llf-paris.fr/demonext/vues/front_page.php) database (Namer et al., 2023). 
 
 Authors: [I. Lacić](https://ivlacic.github.io/ilacic.github.io//) and [R. Huyghe](https://www.unifr.ch/llf/fr/departement/equipe/richard-huyghe.html)
 
